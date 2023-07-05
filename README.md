@@ -1,15 +1,16 @@
 # 8-Week-SQL-Challenge
+The 8-Week SQL Challenge is a comprehensive learning program designed to enhance SQL skills through real-world case studies. Each case study focuses on a different scenario and provides a dataset that simulates real-world data. The case studies are designed to progressively increase in complexity, starting with simpler scenarios that focus on foundational SQL concepts and gradually introduce more advanced techniques and concepts. This repository contains the solutions for all eight case studies included in the challenge.
 
 ## Table of Contents
 
-- [Case Study #1 - Danny's Diner]
-- [Case Study #2 - Pizza Runner]
-- [Case Study #3 - Foodie-Fi]
-- [Case Study #4 - Data Bank]
-- [Case Study #5 - Data Mart]
-- [Case Study #6 - Clique Bait]
-- [Case Study #7 - Balanced Tree Clothing Co.]
-- [Case Study #8 - Fresh Segments]
+- [🍜 Case Study #1 - Danny's Diner](#-case-study-1---dannys-diner)
+- [🍕 Case Study #2 - Pizza Runner](#-case-study-2---pizza-runner)
+- [🥑 Case Study #3 - Foodie-Fi](#-case-study-3---foodie-fi)
+- [📊 Case Study #4 - Data Bank](#-case-study-4---data-bank)
+- [🛒 Case Study #5 - Data Mart](#-case-study-5---data-mart)
+- [🪝 Case Study #6 - Clique Bait](#-case-study-6---clique-bait)
+- [🌲 Case Study #7 - Balanced Tree Clothing Co.](#-case-study-7---balanced-tree-clothing-co)
+- [🍊 Case Study #8 - Fresh Segments](#-case-study-8---fresh-segments)
 ---
 ## 🍜 Case Study #1 - Danny's Diner
 <p align="center">
@@ -18,6 +19,9 @@
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
+
+[View Case Study](https://8weeksqlchallenge.com/case-study-1/)<br>
+[View my solution](https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
 
 ---
 ## 🍕 Case Study #2 - Pizza Runner
@@ -32,6 +36,9 @@ Danny was sold on the idea, but he knew that pizza alone was not going to help h
 
 Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters (otherwise known as Danny’s house) and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders from customers.
 
+[View Case Study](https://8weeksqlchallenge.com/case-study-2/)<br>
+[View my solution](https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)
+
 ---
 ## 🥑 Case Study #3 - Foodie-Fi
 <p align="center">
@@ -42,6 +49,9 @@ Subscription based businesses are super popular and Danny realised that there wa
 Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and started selling monthly and annual subscriptions, giving their customers unlimited on-demand access to exclusive food videos from around the world!
 
 Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
+
+[View Case Study](https://8weeksqlchallenge.com/case-study-3/)<br>
+[View my solution](https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi)
 
 ---
 ## 📊 Case Study #4 - Data Bank
@@ -60,6 +70,9 @@ The management team at Data Bank want to increase their total customer base - bu
 
 This case study is all about calculating metrics, growth and helping the business analyse their data in a smart way to better forecast and plan for their future developments!
 
+[View Case Study](https://8weeksqlchallenge.com/case-study-4/)<br>
+[View my solution](https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank)
+
 ---
 ## 🛒 Case Study #5 - Data Mart
 <p align="center">
@@ -77,6 +90,9 @@ The key business question he wants you to help him answer are the following:
 - Which platform, region, segment and customer types were the most impacted by this change?
 - What can we do about future introduction of similar sustainability updates to the business to minimise impact on sales?
 
+[View Case Study](https://8weeksqlchallenge.com/case-study-5/)<br>
+[View my solution](https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%235%20-%20Data%20Mart)
+
 ---
 ## 🪝 Case Study #6 - Clique Bait
 <p align="center">
@@ -86,6 +102,9 @@ Clique Bait is not like your regular online seafood store - the founder and CEO 
 
 In this case study - you are required to support Danny’s vision and analyse his dataset and come up with creative solutions to calculate funnel fallout rates for the Clique Bait online store.
 
+[View Case Study](https://8weeksqlchallenge.com/case-study-6/)<br>
+[View my solution](https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait)
+
 ---
 ## 🌲 Case Study #7 - Balanced Tree Clothing Co.
 <p align="center">
@@ -94,6 +113,9 @@ In this case study - you are required to support Danny’s vision and analyse hi
 Balanced Tree Clothing Company prides themselves on providing an optimised range of clothing and lifestyle wear for the modern adventurer!
 
 Danny, the CEO of this trendy fashion company has asked you to assist the team’s merchandising teams analyse their sales performance and generate a basic financial report to share with the wider business.
+
+[View Case Study](https://8weeksqlchallenge.com/case-study-7/)<br>
+[View my solution](https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co.)
 
 ---
 ## 🍊 Case Study #8 - Fresh Segments
@@ -107,5 +129,8 @@ Clients share their customer lists with the Fresh Segments team who then aggrega
 In particular - the composition and rankings for different interests are provided for each client showing the proportion of their customer list who interacted with online assets related to each interest for each month.
 
 Danny has asked for your assistance to analyse aggregated metrics for an example client and provide some high level insights about the customer list and their interests.
+
+[View Case Study](https://8weeksqlchallenge.com/case-study-8/)<br>
+[View my solution](https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%238%20-%20Fresh%20Segments)
 
 ---
