@@ -6,8 +6,7 @@
 
 - [Introduction](#introduction)
 - [Case Study Questions](#case-study-questions)
-- [Bonus Questions](#bonus-questions)
-- [Solutions](#solutions)
+- [Case Study Solutions](#case-study-solutions)
 
 ---
 
@@ -41,4 +40,6 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
   
 ---
 
-## Solutions
+## Case Study Solutions
+
+Click here to see the solutions
