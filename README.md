@@ -14,7 +14,7 @@ The 8-Week SQL Challenge is a comprehensive learning program designed to enhance
 ---
 ## 🍜 Case Study #1 - Danny's Diner
 <p align="center">
-<img src="Images/Danny's%20Diner.png" align="center" width="300">
+<a href="https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner" target="_blank" rel="noreferrer"> <img src="Images/Danny's%20Diner.png" align="center" width="300">
 
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
@@ -26,7 +26,7 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 ---
 ## 🍕 Case Study #2 - Pizza Runner
 <p align="center">
-<img src="Images/Pizza%20Runner.png" align="center" width="300">
+<a href="https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner" target="_blank" rel="noreferrer"> <img src="Images/Pizza%20Runner.png" align="center" width="300">
 
 Did you know that over 115 million kilograms of pizza is consumed daily worldwide??? (Well according to Wikipedia anyway…)
 
@@ -42,7 +42,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 ---
 ## 🥑 Case Study #3 - Foodie-Fi
 <p align="center">
-<img src="Images/Foodie-Fi.png" align="center" width="300">
+<a href="https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi" target="_blank" rel="noreferrer"> <img src="Images/Foodie-Fi.png" align="center" width="300">
 
 Subscription based businesses are super popular and Danny realised that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!
 
@@ -56,7 +56,7 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
 ---
 ## 📊 Case Study #4 - Data Bank
 <p align="center">
-<img src="Images/Data%20Bank.png" align="center" width="300">
+<a href="https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank" target="_blank" rel="noreferrer"> <img src="Images/Data%20Bank.png" align="center" width="300">
 
 There is a new innovation in the financial industry called Neo-Banks: new aged digital only banks without physical branches.
 
@@ -76,7 +76,7 @@ This case study is all about calculating metrics, growth and helping the busines
 ---
 ## 🛒 Case Study #5 - Data Mart
 <p align="center">
-<img src="Images/Data%20Mart.png" align="center" width="300">
+<a href="https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%235%20-%20Data%20Mart" target="_blank" rel="noreferrer"> <img src="Images/Data%20Mart.png" align="center" width="300">
 
 Data Mart is Danny’s latest venture and after running international operations for his online supermarket that specialises in fresh produce - Danny is asking for your support to analyse his sales performance.
 
@@ -96,7 +96,7 @@ The key business question he wants you to help him answer are the following:
 ---
 ## 🪝 Case Study #6 - Clique Bait
 <p align="center">
-<img src="Images/Clique%20Bait.png" align="center" width="300">
+<a href="https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait" target="_blank" rel="noreferrer"> <img src="Images/Clique%20Bait.png" align="center" width="300">
 
 Clique Bait is not like your regular online seafood store - the founder and CEO Danny, was also a part of a digital data analytics team and wanted to expand his knowledge into the seafood industry!
 
@@ -108,7 +108,7 @@ In this case study - you are required to support Danny’s vision and analyse hi
 ---
 ## 🌲 Case Study #7 - Balanced Tree Clothing Co.
 <p align="center">
-<img src="Images/Balanced%20Tree%20Clothing%20Co..png" align="center" width="300">
+<a href="https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co." target="_blank" rel="noreferrer"> <img src="Images/Balanced%20Tree%20Clothing%20Co..png" align="center" width="300">
 
 Balanced Tree Clothing Company prides themselves on providing an optimised range of clothing and lifestyle wear for the modern adventurer!
 
@@ -120,7 +120,7 @@ Danny, the CEO of this trendy fashion company has asked you to assist the team�
 ---
 ## 🍊 Case Study #8 - Fresh Segments
 <p align="center">
-<img src="Images/Fresh%20Segments.png" align="center" width="300">
+<a href="https://github.com/princemayah/8-Week-SQL-Challenge/tree/main/Case%20Study%20%238%20-%20Fresh%20Segments" target="_blank" rel="noreferrer"> <img src="Images/Fresh%20Segments.png" align="center" width="300">
 
 Danny created Fresh Segments, a digital marketing agency that helps other businesses analyse trends in online ad click behaviour for their unique customer base.
 
