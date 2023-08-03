@@ -1,5 +1,5 @@
-# 8-Week-SQL-Challenge
-The 8-Week SQL Challenge is a comprehensive learning program designed to enhance SQL skills through real-world case studies. Each case study focuses on a different scenario and provides a dataset that simulates real-world data. The case studies are designed to progressively increase in complexity, starting with simpler scenarios that focus on foundational SQL concepts and gradually introduce more advanced techniques and concepts. This repository contains the solutions for all eight case studies included in the challenge.
+# 8 Week SQL Challenge
+The 8 Week SQL Challenge is a comprehensive learning program designed to enhance SQL skills through real-world case studies. Each case study focuses on a different scenario and provides a dataset that simulates real-world data. The case studies are designed to progressively increase in complexity, starting with simpler scenarios that focus on foundational SQL concepts and gradually introduce more advanced techniques and concepts. This repository contains the solutions for all eight case studies included in the challenge.
 
 ## Table of Contents
 
