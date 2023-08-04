@@ -59,4 +59,4 @@ Use a single SQL query to transform the `product_hierarchy` and `product_prices`
 
 ## Case Study Solutions
 
-Click here to see the solutions
+Click here to see the solutions - Incomplete
