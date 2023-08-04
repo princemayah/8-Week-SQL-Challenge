@@ -49,4 +49,4 @@ This case study is all about calculating metrics, growth and helping the busines
 
 ## Case Study Solutions
 
-Click here to see the solutions
+Click here to see the solutions - Incomplete
