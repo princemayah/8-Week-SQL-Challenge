@@ -64,4 +64,4 @@ The Foodie-Fi team wants to create a new ```payments``` table for the year 2020 
 
 ## Case Study Solutions
 
-Click here to see the solutions
+Click here to see the solutions - Incomplete
